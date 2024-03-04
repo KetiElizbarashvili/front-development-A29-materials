@@ -1,0 +1,22 @@
+Homework Assignment on First Webpage
+
+Objective: Apply your knowledge of HTML, CSS, and JavaScript to modify and enhance a basic webpage.
+
+Tasks:
+
+HTML Structure Modification: Add another button to the webpage with a unique ID.
+
+CSS Styling:
+
+Change the background color of the webpage.
+Modify the style of the new button (different color, size, etc.).
+JavaScript Interactivity:
+
+Write a JavaScript function that changes the text of the <h1> element to something else when the new button is clicked.
+Optional: Add a JavaScript function that toggles the visibility of the <h1> element when the new button is clicked.
+Event Listener: Attach an event listener to the new button for the click event to trigger your JavaScript functions.
+
+Personal Touch: Add one personal touch to the webpage (e.g., change the font, add a background image, etc.). 
+
+
+
